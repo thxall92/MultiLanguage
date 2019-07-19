@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">코인원 인도네시아</string>
+
+    <string name="hi">안녕하세요!</string>
+    <string name="change_language">언어 변경</string>
+</resources>
