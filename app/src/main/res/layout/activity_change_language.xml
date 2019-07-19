@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="300dp">
+
+    <TextView
+            android:text="@string/change_language"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:padding="20dp"/>
+
+    <TextView
+            android:id="@+id/tv_change_english"
+            android:text="English"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:padding="20dp"/>
+
+    <TextView
+            android:id="@+id/tv_change_korean"
+            android:text="한국어"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:padding="20dp"/>
+
+    <TextView
+            android:id="@+id/tv_change_indonesian"
+            android:text="Bahasa"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:padding="20dp"/>
+</LinearLayout>
